@@ -71,6 +71,7 @@ GEM
     coffee-script-source (1.12.2)
     concurrent-ruby (1.1.10)
     crass (1.0.6)
+    daemon-spawn (0.4.2)
     date (3.3.3)
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
@@ -435,6 +436,7 @@ DEPENDENCIES
   byebug (= 9.0.6)
   carrierwave (= 1.2.2)
   coffee-rails (= 4.2.2)
+  daemon-spawn
   faker (= 1.7.3)
   fog (= 1.42)
   guard (= 2.16.2)
